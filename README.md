@@ -1,2 +1,2 @@
-# -GRIP-Task-1
-task1 of GRIP
+# -GRIP-Task-2
+task2 of GRIP
